@@ -1,0 +1,6 @@
+ollama>=0.4.0
+ollama
+python-dotenv
+requests>=2.31.0
+gradio>=4.0.0
+streamlit
